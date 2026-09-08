@@ -1,2 +1,3 @@
-const SUPABASE_URL = "آپ کا URL";
-const SUPABASE_PUBLISHABLE_KEY = "HIDDEN";
+const SUPABASE_URL = "https://........supabase.co";
+
+const SUPABASE_PUBLISHABLE_KEY = "eyJ........";
